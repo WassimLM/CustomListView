@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">CustomListView</string>
+    <string name="office">Office 365</string>
+    <string name="word">Word</string>
+    <string name="desWord">Editeur du Text</string>
+    <string name="excel">Excel</string>
+    <string name="desExcel">Tableur</string>
+    <string name="power">Power Point</string>
+    <string name="desPower">Logiciel de présentation</string>
+    <string name="outlook">Outlook</string>
+    <string name="desOutlook">Client de courrier electronique</string>
+</resources>
